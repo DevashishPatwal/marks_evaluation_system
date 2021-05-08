@@ -14,3 +14,7 @@ Some Screenshots
 ### Student Records
 
 ![records](https://user-images.githubusercontent.com/48600273/117530259-c0b90300-aff9-11eb-8f99-c9f5cdb3aa16.png)
+
+### Missed Deadline
+
+![missed deadline](https://user-images.githubusercontent.com/48600273/117530633-cfa0b500-affb-11eb-803b-67cf95881528.png)
